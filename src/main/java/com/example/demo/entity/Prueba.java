@@ -9,6 +9,9 @@ public class Prueba {
 	private String rama1;
 
 	private String rama2;
+	private String main3;
+
+	private String main4;
 
 	public String getMain1() {
 		return main1;
@@ -40,6 +43,22 @@ public class Prueba {
 
 	public void setRama2(String rama2) {
 		this.rama2 = rama2;
+	}
+	
+	public String getMain3() {
+		return main3;
+	}
+
+	public void setMain3(String main3) {
+		this.main3 = main3;
+	}
+
+	public String getMain4() {
+		return main4;
+	}
+
+	public void setMain4(String main4) {
+		this.main4 = main4;
 	}
 
 }
